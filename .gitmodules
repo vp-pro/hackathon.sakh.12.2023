@@ -1,15 +1,15 @@
-[submodule "/backend"]
-    path = /backend
+[submodule "backend"]
+    path = backend
     url = https://github.com/vp-pro/hackathon.sakh.12.2023-backend
 
-[submodule "/frontend"]
-    path = /frontend
+[submodule "frontend"]
+    path = frontend
     url = https://github.com/vp-pro/hackathon.sakh.12.2023-frontend
 
-[submodule "/sentiment"]
-    path = /sentiment
+[submodule "sentiment"]
+    path = sentiment
     url = https://github.com/vp-pro/hackathon.sakh.12.2023-sentiment
 
-[submodule "/telegram"]
-    path = /telegram
+[submodule "telegram"]
+    path = telegram
     url = https://github.com/vp-pro/hackathon.sakh.12.2023-telegram
