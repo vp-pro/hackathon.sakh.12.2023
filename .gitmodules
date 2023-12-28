@@ -11,5 +11,5 @@
     url = https://github.com/vp-pro/hackathon.sakh.12.2023-sentiment
 
 [submodule "telegram"]
-    path = telegram
-    url = https://github.com/vp-pro/hackathon.sakh.12.2023-telegram
+	path = telegram
+	url = https://github.com/vp-pro/hackathon.sakh.12.2023-telegram
